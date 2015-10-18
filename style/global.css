@@ -1,0 +1,219 @@
+* {
+    font-family: Arial;
+}
+
+body {
+    margin: 0px;
+}
+
+#header {
+    display: inline-block;
+    width: 100%;
+    height: 102px;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+
+#header * {
+    padding: 10px;
+}
+
+#header .loc {
+    padding: 5px;
+}
+
+#header img {
+    height: 40px;
+    margin-top: 0px;
+    cursor: pointer;
+    margin-top: 12px;
+}
+
+.server  {
+	display: inline-block;
+    margin-top: 100px;
+}
+
+.server * {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.server img {
+    margin-left: 0px;
+}
+
+.commands * {
+    font-family: Consolas;
+    font-size: 12px;
+}
+
+.commands div {
+    display: inline-block;
+    float: left;
+    text-align: left;
+    margin-left: 0px;
+}
+
+.server a {
+    padding: 20px;
+}
+
+.wave {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 3px solid #000;
+    position: absolute;
+    top: 0px;
+    margin-left : 11px;
+    margin-top : 26px;
+    cursor: pointer;
+    z-index: -10;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#about p {
+    margin-left: 20px;
+}
+
+#link {
+    display: block;
+    line-height: 20px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+li {
+    list-style: none;
+}
+
+.server h5 {
+    margin-left: 40px;
+}
+
+.info {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+#email {
+    display: block;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.commands {
+    margin-top: 10px;
+}
+
+#bulletin {
+    right: 0;
+    position: absolute;
+    top: 160px;
+}
+
+#bulletin, #bulletin * {
+    display: inline-block;
+}
+
+#bulletin * {
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+}
+
+lb {
+    background-color: #000;
+}
+
+.dots {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    margin-top: -14px;
+    margin-left: -10px;
+}
+
+.loc {
+    display: inline-block;
+    background-color: #000;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border-radius: 50%;
+}
+
+.white {
+    opacity: 0;
+}
+
+#header td:nth-child(2){
+    width: 119px;
+    position: relative;
+}
+
+#wrap {
+    top: 0px;
+    position: absolute;
+}
+
+#about {
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 60px;
+}
+
+.info h4 {
+    cursor: pointer;
+}
+
+#mapRot, .info h4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#togMap {
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.info h4 {
+    padding: 10px;
+}
+
+#mapRot {
+    padding-bottom: 10px;
+}
+
+#mapRot p {
+    margin-top: 40px;
+}
+
+.server * {
+    margin-left: 20px;
+}
+
+.descrip {
+    margin-left: 40px;
+}
+
+.icon {
+    display: inline-block;
+    height: 12px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
