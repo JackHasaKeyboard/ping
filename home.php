@@ -34,9 +34,9 @@
 
 		<div class='server'>
 
-			<a id='link' title='Click to join' href='steam://connect/50.23.129.120:27015' target='_blank'> Trade #1 <img class='icon' src='img/icon/connect.svg'> </a>
+			<a id='link' title='Click to join' href='steam://connect/50.23.129.113:27115' target='_blank'> Trade #1 <img class='icon' src='img/icon/connect.svg'> </a>
 
-			<a href="http://clanforge.multiplay.co.uk/servers/2962301/view" target="_blank"><img src="http://cache.multiplayuk.com/b/1-2962301-560x95-17558-FFFFFF-FFFFFF.png" alt="Server Banner" style="border:0;width:560px;height:95px" /></a>
+			<a href="https://clanforge.multiplay.co.uk/servers/2974915/view" target="_blank"><img src="http://cache.multiplayuk.com/b/1-2974915-560x95-17977-FF5519-FFFFFF.png" alt="Server Banner" style="border:0;width:560px;height:95px" /></a>
 
 						<h5> Seattle - Washington </h5>
 
